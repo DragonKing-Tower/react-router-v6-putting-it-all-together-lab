@@ -76,6 +76,23 @@
             "Family",
             "Sci-Fi"
           ]
+        },
+        {
+          "id": "5df652e8-6dcc-4303-be34-0cd7dd639484",
+          "title": "Hellas",
+          "time": 345,
+          "genres": [
+            "fasdfa"
+          ]
+        },
+        {
+          "id": "9189a336-c5ad-48cd-a924-b0200c3428a1",
+          "title": "Final Test",
+          "time": 34,
+          "genres": [
+            "Halth and Safty",
+            "Test"
+          ]
         }
       ]
     },
@@ -116,6 +133,80 @@
             "Crime",
             "Drama",
             "Thriller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2492",
+      "name": "jjh",
+      "bio": "lihj",
+      "movies": []
+    },
+    {
+      "id": "b929",
+      "name": "Dragon",
+      "bio": "This is a biio",
+      "movies": [
+        {
+          "id": "222c820f-11a7-406e-8b89-7bd09565d900",
+          "title": "Burn",
+          "time": 5,
+          "genres": [
+            "Fire"
+          ]
+        },
+        {
+          "id": "dda7c0f2-3a2e-4603-877b-718446781858",
+          "title": "Hello",
+          "time": 58,
+          "genres": [
+            "FIre",
+            "Light",
+            "Dark"
+          ]
+        },
+        {
+          "id": "15cfd6bf-622a-41db-a8fb-60dd2020b6a4",
+          "title": "asd",
+          "time": 5,
+          "genres": [
+            "cvs"
+          ]
+        },
+        {
+          "id": "8e90ff49-952b-49ce-bb84-62d69fb51ea0",
+          "title": "Attempt 700",
+          "time": 54,
+          "genres": [
+            "Time",
+            "Space",
+            "Meaninglessness"
+          ]
+        },
+        {
+          "id": "dd68d973-1691-493e-9380-223dc9404bab",
+          "title": "asdother",
+          "time": 1,
+          "genres": [
+            "dss"
+          ]
+        },
+        {
+          "id": "686c0a94-e989-496c-a4ac-51453bfd9bcd",
+          "title": "noter",
+          "time": 4,
+          "genres": [
+            "happy",
+            "das"
+          ]
+        },
+        {
+          "id": "7b1e9445-3eb9-4f09-bde1-69ae5b0d117e",
+          "title": "Ok, think I found it",
+          "time": 4,
+          "genres": [
+            "Empty"
           ]
         }
       ]
